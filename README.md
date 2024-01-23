@@ -17,6 +17,7 @@ This project is a Kotlin application developed in IntelliJ IDEA, focusing on lev
 ## Features
 
 - Asynchronous programming with Kotlin coroutines.
+- AI Services (Simulated)
 
 ## Prerequisites
 
@@ -27,7 +28,7 @@ This project is a Kotlin application developed in IntelliJ IDEA, focusing on lev
 
 1. Clone the repository.
     ```bash
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/Maulidani/test-maulidani-mahmud.git
     ```
 
 2. Open the project in IntelliJ IDEA.
